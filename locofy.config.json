@@ -1,0 +1,6 @@
+{
+  "components": [
+    "./component-library/src/components/Button/Button.tsx",
+    "./component-library/src/components/Checkbox/Checkbox.tsx",
+  ],
+}
